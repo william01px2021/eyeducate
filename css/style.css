@@ -13,3 +13,16 @@ body{
   text-align:center;
 
 }
+*{
+  box-sizing: border-box;
+  transition: all ease-in-out 250ms;
+}
+#myCarousel{
+
+}
+.overlayElement{
+  z-index:3;
+}
+.background{
+  z-index 0;
+}
