@@ -2,6 +2,7 @@
 body{
   padding:0;
   margin:0;
+  background-color: yellow;
 }
 .container{
   width:100%;
@@ -25,4 +26,13 @@ body{
 }
 .background{
   z-index 0;
+}
+img{
+  border-radius: 80%;
+  border-color: red;
+  border-style:
+}
+
+#p1{
+  background-color:green;
 }
